@@ -1,3 +1,1 @@
-"# McGmSwitcher" 
-"# McGmSwitcher" 
-"# mcGmSwitcher" 
+## Minecraft Gamemode Switcher
